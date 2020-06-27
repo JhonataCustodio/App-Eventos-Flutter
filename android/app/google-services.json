@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "527242340533",
+    "firebase_url": "https://localizeja-f3b7a.firebaseio.com",
+    "project_id": "localizeja-f3b7a",
+    "storage_bucket": "localizeja-f3b7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527242340533:android:9e2f9d10eb2e77273c36fc",
+        "android_client_info": {
+          "package_name": "br.com.dominio.localizeja"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527242340533-6jm4dh7piic15u1f138bqku9620ndb4m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0c3dt7Nx1gt4kZdMkkV0wrTEuznho1fM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527242340533-6jm4dh7piic15u1f138bqku9620ndb4m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

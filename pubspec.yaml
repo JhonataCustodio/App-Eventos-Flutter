@@ -1,0 +1,51 @@
+name: localizeja
+description: A new Flutter project.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  contacts_service: ^0.4.6
+  flutter:
+    sdk: flutter
+  badges: ^1.1.1
+  firebase_auth: 0.15.4
+  google_maps_flutter : ^0.5.25+1
+  # Add the following two lines
+  http: ^0.12.0+1
+  json_serializable: ^3.3.0
+  
+
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  pedantic: 1.8.0+1
+  build_runner: ^1.10.0
+
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    -  imagens.dart/Untitled2.png
+    -  imagens.dart/Untitled3.png
+    -  imagens.dart/Untitled4.png
+    -  imagens.dart/Untitled5.png
+    -  imagens.dart/Untitled6.png
+    -  imagens.dart/Untitled7.png
+
+
+include: package:pedantic/analysis_options.yaml
+
+analyzer:
+  exclude:
+    - lib/src/locations.g.dart
